@@ -10,7 +10,7 @@ Source1:	http://lug.fh-swf.de/vim/vim-bash/bash-hot-keys.pdf
 # Source1-md5:	d6923526204a2920a155ec52eafbc947
 Source2:	http://lug.fh-swf.de/vim/vim-doc/bashsupport.html
 # Source2-md5:	1b410b4adbf7ec603b01e0e2f8a5406c
-URL:		http://www.vim.org/scripts/script.php?script_id=213
+URL:		http://www.vim.org/scripts/script.php?script_id=365
 BuildRequires:	unzip
 Requires(post,postun):	/usr/bin/vim
 Requires:	vim-rt >= 4:7.0
