@@ -1,11 +1,11 @@
 Summary:	Write BASH-scripts by inserting comments, statements, tests, variables, builtins, etc
 Name:		vim-plugin-bash
-Version:	3.1.1
+Version:	3.3
 Release:	0.1
 License:	vim
 Group:		Applications/Editors/Vim
 Source0:	http://carme.pld-linux.org/~uzsolt/sources/%{name}-%{version}.zip
-# Source0-md5:	cb189a5ef7b6c3b2c72a06c29c2c8445
+# Source0-md5:	cbe7aa8c3a58f209f83acc95d13d9266
 Source1:	http://lug.fh-swf.de/vim/vim-bash/bash-hot-keys.pdf
 # Source1-md5:	d6923526204a2920a155ec52eafbc947
 Source2:	http://lug.fh-swf.de/vim/vim-doc/bashsupport.html
